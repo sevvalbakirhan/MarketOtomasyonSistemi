@@ -1,0 +1,58 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+*.pdb
+*.pidb
+*.tmp
+*.temp
+
+# VS-specific folders
+.vs/
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+# Eğer yeniden yüklenecekse:
+# !packages/repositories.config
+
+# SQL Server yerel dosyaları
+*.mdf
+*.ldf
+
+# Windows thumbnail/cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Resharper, Rider ve benzeri araçlar
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# User-specific
+*.userprefs
+*.sln.docstates
+
+# Publish output
+publish/
+out/
+
+# Diğer dışlanabilecek ortamlar
+TestResults/
+docs/*.zip
+*.vsix
+
+# Logs and Dumps
+*.log
+*.dmp
+
+# Marketim projesi
+**/*.bak
