@@ -50,6 +50,7 @@ Kullanıcı bir ürün barkodunu kameraya gösterdiğinde sistem otomatik olarak
 
 5. **Projeyi Çalıştırın**  
    `Form1` başlangıç formudur. F5 ile başlatabilirsiniz.
+   Örnek barkodlara docs\Barkodlar sekmesinden ulaşabilirsiniz.
 
 
 ## Örnek Kullanıcılar
